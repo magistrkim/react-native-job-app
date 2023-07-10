@@ -1,6 +1,7 @@
 If you have an Expo on your phone just scan this QR code and enjoy my new React Native Search-Job-App
 
-![Снимок экрана (51)](https://github.com/magistrkim/react-native-job-app/assets/115700340/609ae01e-ee41-4b1c-a517-ef0d663a7f7d)
+![Снимок экрана (51)](https://github.com/magistrkim/react-native-job-app/assets/115700340/fac1833a-e5c8-4429-8761-4b37a044e0a9)
+
 
 
 
