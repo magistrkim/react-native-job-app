@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const USER_KEY = "7209ecd714msh8ce0863b10e6735p1cbef8jsnc3ad61bb7f65";
+const USER_KEY = "455e7f2dfemshbc490c188c1bcbep114c3ejsnb788978042aa";
 
 const useFetch = (endpoint, query) => {
   const [data, setData] = useState([]);
