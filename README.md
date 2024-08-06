@@ -51,11 +51,11 @@
 
 👉 **Search & Pagination Functionality**: Implement search functionality and pagination for efficient data navigation.
 
-👉 **Custom API Data Fetching Hooks**:Create custom hooks for streamlined and reusable API data fetching.
+👉 **Custom API Data Fetching Hooks**: Create custom hooks for streamlined and reusable API data fetching.
 
 👉 **Dynamic Home Page**: Explore diverse jobs from popular and nearby locations across different categories.
 
-👉 **Browse with Ease on Explore Page**: Page: Navigate through various jobs spanning different categories and types.
+👉 **Browse with Ease on Explore Page**: Navigate through various jobs spanning different categories and types.
 
 👉 **Detailed Job Insights**: View comprehensive job details, including application links, salary info, responsibilities, and qualifications.
 
